@@ -12,3 +12,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.title
+{
+  font-size:20px;
+  color:red;
+  border:1px solid red;
+  margin:10px;
+  padding:5px;
+}
+
+.section
+{
+  font-size:20px;
+  color:blue;
+  border:1px solid blue;
+  margin:10px;
+  padding:5px;
+}
+
+.counter
+{
+  width:100px;
+  font-size:20px;
+  font-weight: bold;
+  color:pink;
+  border:1px solid pink;
+  margin:10px;
+  padding:5px;
+  text-align: center;
+}
+.counter button
+{
+  cursor: pointer;
+}
+
+.menu a
+{
+  margin:10px;
+  padding:5px;
+  background-color: beige;
+  color:black;
+}
+
+
+.counter button.left
+{
+  float:left;
+}
+
+.counter button.right
+{
+  float:right;
+}
+
+.footer
+{
+  font-size:20px;
+  color:orange;
+  border:1px solid orange;
+  margin:10px;
+  padding:5px;
+}
